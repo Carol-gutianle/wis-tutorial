@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>WIT-共享文档 Blog</title>
+        <link>https://carol-gutianle.github.io/wis-tutorial/blog</link>
+        <description>WIT-共享文档 Blog</description>
+        <lastBuildDate>Sat, 15 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[我们也有共享文档啦！]]></title>
+            <link>https://carol-gutianle.github.io/wis-tutorial/blog/我们也有共享文档啦！</link>
+            <guid>https://carol-gutianle.github.io/wis-tutorial/blog/我们也有共享文档啦！</guid>
+            <pubDate>Sat, 15 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[完成共享文档的创建!]]></description>
+            <content:encoded><![CDATA[<p>完成共享文档的创建!</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>

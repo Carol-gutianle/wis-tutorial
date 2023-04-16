@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutorial=self.webpackChunktutorial||[]).push([[931],{7400:t=>{t.exports=JSON.parse('{"title":"Women In Tech","slug":"/category/women-in-tech","permalink":"/wis-tutorial/docs/category/women-in-tech","navigation":{"next":{"title":"\u5173\u4e8e\u6211\u4eec","permalink":"/wis-tutorial/docs/wis/aboutus"}}}')}}]);
