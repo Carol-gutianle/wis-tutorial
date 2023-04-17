@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutorial=self.webpackChunktutorial||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6211\u4eec\u4e5f\u6709\u5171\u4eab\u6587\u6863\u5566\uff01","permalink":"/wis-tutorial/blog/\u6211\u4eec\u4e5f\u6709\u5171\u4eab\u6587\u6863\u5566\uff01"}]}')}}]);

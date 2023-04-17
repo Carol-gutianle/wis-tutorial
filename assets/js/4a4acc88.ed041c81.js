@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutorial=self.webpackChunktutorial||[]).push([[729],{9363:t=>{t.exports=JSON.parse('{"permalink":"/wis-tutorial/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutorial=self.webpackChunktutorial||[]).push([[336],{4789:t=>{t.exports=JSON.parse('{"title":"Women In STEAM","slug":"/category/women-in-steam","permalink":"/wis-tutorial/docs/category/women-in-steam","navigation":{"next":{"title":"\u5173\u4e8e\u6211\u4eec","permalink":"/wis-tutorial/docs/wis/aboutus"}}}')}}]);
