@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktutorial=self.webpackChunktutorial||[]).push([[291],{3079:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/wis-tutorial/blog/tags/hola","allTagsPath":"/wis-tutorial/blog/tags","count":1}')}}]);

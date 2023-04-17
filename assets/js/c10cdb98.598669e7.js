@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutorial=self.webpackChunktutorial||[]).push([[664],{2476:t=>{t.exports=JSON.parse('{"permalink":"/wit-tutorial/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

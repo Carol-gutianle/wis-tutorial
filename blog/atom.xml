@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://carol-gutianle.github.io/wis-tutorial/blog</id>
+    <id>https://carol-gutianle.github.io/wit-tutorial/blog</id>
     <title>WIT-共享文档 Blog</title>
     <updated>2023-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://carol-gutianle.github.io/wis-tutorial/blog"/>
+    <link rel="alternate" href="https://carol-gutianle.github.io/wit-tutorial/blog"/>
     <subtitle>WIT-共享文档 Blog</subtitle>
-    <icon>https://carol-gutianle.github.io/wis-tutorial/img/favicon.ico</icon>
+    <icon>https://carol-gutianle.github.io/wit-tutorial/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[我们也有共享文档啦！]]></title>
-        <id>https://carol-gutianle.github.io/wis-tutorial/blog/我们也有共享文档啦！</id>
-        <link href="https://carol-gutianle.github.io/wis-tutorial/blog/我们也有共享文档啦！"/>
+        <id>https://carol-gutianle.github.io/wit-tutorial/blog/我们也有共享文档啦！</id>
+        <link href="https://carol-gutianle.github.io/wit-tutorial/blog/我们也有共享文档啦！"/>
         <updated>2023-04-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[完成共享文档的创建!]]></summary>
         <content type="html"><![CDATA[<p>完成共享文档的创建!</p>]]></content>
